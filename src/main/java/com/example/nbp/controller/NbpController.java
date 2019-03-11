@@ -1,6 +1,6 @@
 package com.example.nbp.controller;
 
-import com.example.nbp.CurrencyModel;
+import com.example.nbp.model.CurrencyModel;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

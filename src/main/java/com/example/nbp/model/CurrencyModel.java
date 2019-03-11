@@ -1,4 +1,4 @@
-package com.example.nbp;
+package com.example.nbp.model;
 
 import java.util.ArrayList;
 import java.util.List;
